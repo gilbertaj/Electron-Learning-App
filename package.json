@@ -1,0 +1,19 @@
+{
+    "name": "electron-learning-app",
+    "version": "0.0.1",
+    "description": "Learning Application for electron",
+    "main": "main.js",
+    "scripts": {
+      "test": "echo \"Error: no test specified\" && exit 1"
+    },
+    "repository": {
+      "type": "git",
+      "url": "https://github.com/gilbertaj/Electron-Learning-App.git"
+    },
+    "author": "Andrew Gilbert",
+    "license": "GPL-3.0-or-later",
+    "bugs": {
+      "url": "https://github.com/gilbertaj/Electron-Learning-App/issues"
+    },
+    "homepage": "https://github.com/gilbertaj/Electron-Learning-App#readme"
+}
